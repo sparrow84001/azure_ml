@@ -1,3 +1,4 @@
 {
-    "azureML.defaultWorkspaceId": "/subscriptions/8bab04ac-f85e-44cd-b55c-1dd2375b3e5b/resourceGroups/mlazure/providers/Microsoft.MachineLearningServices/workspaces/mlsaynata"
+    "azureML.defaultWorkspaceId": "/subscriptions/8bab04ac-f85e-44cd-b55c-1dd2375b3e5b/resourceGroups/mlazure/providers/Microsoft.MachineLearningServices/workspaces/mlsaynata",
+    "jupyter.jupyterServerType": "remote"
 }
